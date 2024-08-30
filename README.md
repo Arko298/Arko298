@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ## Connect with me:
 <p align="left">
-<a href="www.linkedin.com/in/sayantan-choudhury-0a5b20223"> 
+<a href="https://www.linkedin.com/in/sayantan-choudhury-0a5b20223/"> 
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="30"/> 
 </a> 
 <a href="https://dev.to/sayantan_choudhury_0bd6bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sayantan_choudhury_0bd6bd" height="30" width="40" /></a>
