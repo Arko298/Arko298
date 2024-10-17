@@ -16,13 +16,10 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences
 -->
 <h1 align="center">Hi 👋, I'm Sayantan Choudhury</h1>
-<h3 align="center">A passionate MERN developer and DevOps Engineer from India</h3>
+<h3 align="center">A passionate FullStack developerand DevOps Engineer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arko298&label=Profile%20views&color=0e75b6&style=flat" alt="arko298" /> </p> -->
 
-
-
-<p align="left"> <a href="https://twitter.com/sayantan_949997" target="blank"><img src="https://img.shields.io/twitter/follow/sayantan_949997?logo=twitter&style=for-the-badge" alt="sayantan_949997" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science**
 
@@ -32,16 +29,16 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **choudhurysayantan03@gmail.com**
 
-- ⚡ Fun fact: **I think I am a funny Web developer**
+- ⚡ Fun fact: **I think I am a funny developer**
 
 ## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/sayantan-choudhury-0a5b20223/"> 
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="30"/> 
 </a> 
-<a href="https://dev.to/sayantan_choudhury_0bd6bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sayantan_choudhury_0bd6bd" height="30" width="40" /></a>
+<!--<a href="https://dev.to/sayantan_choudhury_0bd6bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sayantan_choudhury_0bd6bd" height="30" width="40" /></a>-->
 <a href="https://twitter.com/sayantan_949997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayantan_949997" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/26001352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26001352" height="30" width="40" /></a>
+<!--<a href="https://stackoverflow.com/users/26001352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26001352" height="30" width="40" /></a>-->
 
 </p>
 <Br />
