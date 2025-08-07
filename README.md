@@ -16,20 +16,22 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences
 -->
 <h1 align="center">Hi 👋, I'm Sayantan Choudhury</h1>
-<h3 align="center">A passionate FullStack developerand DevOps Engineer</h3>
+<h3 align="center">A builder, dreamer, and constant learner. I love working on impactful projects across web, backend, cloud, and AI. Whether it's spinning up scalable servers, designing clean UIs, or diving into cutting-edge tech, I'm all in.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arko298&label=Profile%20views&color=0e75b6&style=flat" alt="arko298" /> </p> -->
 
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 Currently Learning: AI, MLOps
 
-- 👨‍💻 All of my projects are available at [Not yet deployed](Not yet deployed)
+- 👨‍💻 Portfolio: (https://my-portfolio-ten-bice-27.vercel.app/)
 
 - 💬 Ask me about: **Backend Technologies.**
 
-- 📫 How to reach me: **choudhurysayantan03@gmail.com**
+- 📫 How to reach me: ****
+- 🧠 Motto: *"Think Big. Build Fast. Learn Always."*
+  
 
-- ⚡ Fun fact: **I think I am a funny developer**
+<!-- - ⚡ Fun fact: **Late,** -->
 
 ## Connect with me:
 <p align="left">
